@@ -30,3 +30,10 @@ Design and implement an AI-powered Support Agent capable of:
   Creating support tickets
   Summarizing conversations
   Reducing manual workload
+
+Success Metrics
+Metric	          Current	    Target
+First Response	     6 hrs	    <30 sec
+Ticket Resolution	  14 hrs	    <4 hrs
+AI Resolution Rate	0%	       60%
+CSAT	               82%	    92%
